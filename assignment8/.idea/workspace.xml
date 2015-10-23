@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bf04289-90f4-4c0e-807e-502eb9760f1f" name="Default" comment="" />
+    <ignored path="assignment8.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="assignment8" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dvd_results.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dvd_results.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.0">
+              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+              <folding>
+                <marker date="1445522688000" expanded="true" signature="565:1036" placeholder="SELECT * FRO..dvd_titles..." />
+                <marker date="1445522688000" expanded="true" signature="1725:1740" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1742:1763" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1764:2155" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1821:1831" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1863:1873" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1912:1922" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1954:1964" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="1996:2006" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2039:2049" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2081:2091" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2124:2134" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2328:2409" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2752:2775" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2838:2875" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="2931:2963" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="3019:3054" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="3111:3147" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="3203:3240" placeholder="..." />
+                <marker date="1445522688000" expanded="true" signature="3297:3327" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dvd_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dvd_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="15.625">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <marker date="1445518929000" expanded="true" signature="344:381" placeholder="SELECT * FRO..ratings..." />
+                <marker date="1445518929000" expanded="true" signature="400:435" placeholder="SELECT * FRO..genres..." />
+                <marker date="1445518929000" expanded="true" signature="454:489" placeholder="SELECT * FRO..sounds..." />
+                <marker date="1445518929000" expanded="true" signature="507:542" placeholder="SELECT * FRO..labels..." />
+                <marker date="1445518929000" expanded="true" signature="562:598" placeholder="SELECT * FRO..formats..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dvd_search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dvd_search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-41.25">
+              <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+              <folding>
+                <marker date="1445519429000" expanded="true" signature="344:381" placeholder="SELECT * FRO..ratings..." />
+                <marker date="1445519429000" expanded="true" signature="400:435" placeholder="SELECT * FRO..genres..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dvd_details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dvd_details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.625">
+              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+              <folding>
+                <marker date="1445522920000" expanded="true" signature="448:831" placeholder="SELECT * FRO..dvd_titles..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dvd_insert.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dvd_insert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4494382">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <marker date="1445537781000" expanded="true" signature="1342:1507" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dvd_form.php" />
+        <option value="$PROJECT_DIR$/dvd_search.php" />
+        <option value="$PROJECT_DIR$/dvd_results.php" />
+        <option value="$PROJECT_DIR$/dvd_delete.php" />
+        <option value="$PROJECT_DIR$/dvd_details.php" />
+        <option value="$PROJECT_DIR$/dvd_insert.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wk8_lecture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bf04289-90f4-4c0e-807e-502eb9760f1f" name="Default" comment="" />
+      <created>1445518253644</created>
+      <option name="number" value="Default" />
+      <updated>1445518253644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dvd_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.70411986">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <marker date="1445521032000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..dvd_titles..." />
+            <marker date="1445521032000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
+            <marker date="1445521032000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..sounds..." />
+            <marker date="1445521032000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..labels..." />
+            <marker date="1445521032000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..formats..." />
+            <marker date="1445521032000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ratings..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-41.25">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+          <folding>
+            <marker date="1445519429000" expanded="true" signature="344:381" placeholder="SELECT * FRO..ratings..." />
+            <marker date="1445519429000" expanded="true" signature="400:435" placeholder="SELECT * FRO..genres..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45692885">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1444846574000" expanded="true" signature="-1:-1" placeholder="UPDATE dvd_t..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76779026">
+          <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+          <folding>
+            <marker date="1445522723000" expanded="true" signature="-1:-1" placeholder="SELECT title..dvd_titles..." />
+            <marker date="1445522723000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+          <folding>
+            <marker date="1445522688000" expanded="true" signature="565:1036" placeholder="SELECT * FRO..dvd_titles..." />
+            <marker date="1445522688000" expanded="true" signature="1725:1740" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1742:1763" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1764:2155" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1821:1831" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1863:1873" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1912:1922" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1954:1964" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="1996:2006" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2039:2049" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2081:2091" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2124:2134" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2328:2409" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2752:2775" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2838:2875" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="2931:2963" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="3019:3054" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="3111:3147" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="3203:3240" placeholder="..." />
+            <marker date="1445522688000" expanded="true" signature="3297:3327" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.625">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <marker date="1445522920000" expanded="true" signature="448:831" placeholder="SELECT * FRO..dvd_titles..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="15.625">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <marker date="1445518929000" expanded="true" signature="344:381" placeholder="SELECT * FRO..ratings..." />
+            <marker date="1445518929000" expanded="true" signature="400:435" placeholder="SELECT * FRO..genres..." />
+            <marker date="1445518929000" expanded="true" signature="454:489" placeholder="SELECT * FRO..sounds..." />
+            <marker date="1445518929000" expanded="true" signature="507:542" placeholder="SELECT * FRO..labels..." />
+            <marker date="1445518929000" expanded="true" signature="562:598" placeholder="SELECT * FRO..formats..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dvd_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4494382">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1445537781000" expanded="true" signature="1342:1507" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
